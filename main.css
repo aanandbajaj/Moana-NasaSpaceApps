@@ -61,3 +61,7 @@ a.control_next {
 .pic1{
   background-image: url('Data/out0_thresh.png');
 }
+
+#id{
+  background-color:lightblue;
+}
