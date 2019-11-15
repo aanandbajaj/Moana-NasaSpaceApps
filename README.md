@@ -12,3 +12,6 @@ The software:
 ### Data Visualization
 
 [logo]: https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/ReadMe%20Markdown/Image1.png "Logo Title Text 2"
+As the above image displays, the dashboard has a section called "Data Visualization". On the left-hand side, I used the Plot.ly and D3.JS libraries to display (as an example) the change in sea levels of Salton Sea over the past 27 years.
+
+On the right-hand side of the page section, we used the LandSat API to get the satellite images of the Salton Sea overtime and used OpenCV and Python to calculate surface area of the water body. This allows MOANA to show the user whether the water body is shrinking or growing overtime, which can inform users about risk of drought/flooding.
