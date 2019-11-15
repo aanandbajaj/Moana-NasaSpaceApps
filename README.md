@@ -11,4 +11,4 @@ The software:
 
 ### Data Visualization
 
-![alt text](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/ReadMe%20Markdown/Image1.png "Data Visualization)
+[logo]: https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/ReadMe%20Markdown/Image1.png "Logo Title Text 2"
