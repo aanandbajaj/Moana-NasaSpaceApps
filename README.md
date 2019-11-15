@@ -11,7 +11,7 @@ The software:
 
 ### Data Visualization
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)"Logo Title Text 2"
+![Image of Yaktocat](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/Image1.png)"Logo Title Text 2"
 
 As the above image displays, the dashboard has a section called "Data Visualization". On the left-hand side, I used the Plot.ly and D3.JS libraries to display (as an example) the change in sea levels of Salton Sea over the past 27 years.
 
