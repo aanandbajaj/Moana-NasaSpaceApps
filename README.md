@@ -11,7 +11,7 @@ The software:
 
 #### Data Visualization
 
-![Data Visualization](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/Image1.png)
+![Data Visualization](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/image3.png)
 
 As the above image displays, the dashboard has a section called "Data Visualization". On the left-hand side, I used the Plot.ly and D3.JS libraries to display (as an example) the change in sea levels of Salton Sea over the past 27 years.
 
@@ -19,6 +19,6 @@ On the right-hand side of the page section, we used the LandSat API to get the s
 
 
 #### Sphere of Influence
-![Sphere of Influence](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/Image2.png)
+![Sphere of Influence](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/image2.png)
 
 The second part of the MOANA application dashboard is an area called Sphere of Influence. These maps help a city determine the "influence" of each water body in the surrounding area (the influence region is the population area the water body can serve). Since the Salton Sea, in the above example, has been drying up overtime, its ability to provide for nearby citizens has declined. This means the city should consider alternative waterbodies as sources for water (this can be seen by the other green dot in the map).
